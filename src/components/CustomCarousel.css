@@ -1,0 +1,11 @@
+.carousel {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	overflow: auto;
+}
+
+.carouselItem img{
+	height: 300px;
+	width: 250px;
+}
